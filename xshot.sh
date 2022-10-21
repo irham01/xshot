@@ -51,8 +51,8 @@ border_c_light="${hex_color[2]}"
 shadow_size="85x10+0+10"
 shadow_color="${hex_color[3]}"
 # footer text
-owner_info=" @D_∆J"
-footer_text=" Shot by Xshot"
+owner_info=" @irhamibra"
+footer_text=" Shot by Kham"
 #footer style
 #xshot
 footer_xy="+0+30"
